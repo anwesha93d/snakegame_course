@@ -25,7 +25,7 @@ import turtle
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 PLAY_AREA_WIDTH = 720
-PLAY_AREA_HEIGHT = 460
+PLAY_AREA_HEIGHT = 480
 GRID_SIZE = 20
 
 # --- Speed Presets (Level, Label, Delay in seconds) ---
